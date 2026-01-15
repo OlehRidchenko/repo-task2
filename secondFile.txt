@@ -1,5 +1,7 @@
 1 secondFile git_1
 2 secondFile git_1
+1 secondFile
+2 secondFile
 3
 4
 5
